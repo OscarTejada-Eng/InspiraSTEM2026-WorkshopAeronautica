@@ -10,7 +10,7 @@ Instructores: Patricia Ortíz (NASA Armstrong Flight Research Center) y Oscar Te
 
 ---
 
-## Resumen del taller
+## Resumen
 
 El 6 de agosto de 2012, un vehículo de más de tres toneladas entró en la atmósfera de Marte a casi 5,8 km/s y, siete minutos después, dejó el rover Curiosity apoyado suavemente sobre el suelo. Nadie lo pilotó: la señal desde la Tierra tardaba unos trece minutos en llegar. Todo estaba decidido de antemano.
 
