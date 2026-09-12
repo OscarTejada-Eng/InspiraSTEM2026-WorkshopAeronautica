@@ -4,7 +4,7 @@
 
 Un recorrido por las fases del Entry, Descent & Landing de la misión Mars Science Laboratory.
 
-**InspiraSTEM 2026 · 5 módulos de 60 minutos · 3 días**
+**InspiraSTEM 2026 · 3 días**
 Instructores: Patricia Ortíz (NASA Armstrong Flight Research Center) y Oscar Tejada (SKY Airline)
 
 ---
