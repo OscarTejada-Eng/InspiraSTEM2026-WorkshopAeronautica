@@ -134,10 +134,10 @@ La presentación se organiza en tres partes:
 
 El material previo suma alrededor de una hora y es intencionalmente ligero: el trabajo fuerte ocurre en el taller. Todos los recursos son gratuitos.
 
-| Recurso |
+| Recurso [Buscar en Internet] |
 |---|
 | Introducción a los notebooks de Python en línea — Google Colab |
-| Khan Academy — Fuerzas y leyes de Newton (en español) |
+| Khan Academy — Fuerzas y leyes de Newton |
 | NASA Glenn — Beginner's Guide to Aeronautics |
 | NASA Glenn — FoilSim Student, simulador interactivo de perfil alar |
 | NASA Glenn — Modelo de la atmósfera de Marte |
@@ -150,4 +150,4 @@ El material previo suma alrededor de una hora y es intencionalmente ligero: el t
 
 ---
 
-*Material preparado para InspiraSTEM 2026.*
+*Material preparado para InspiraSTEM 2026. Los datos son con fines educativos y pueden no coincidir con la misión real.*
