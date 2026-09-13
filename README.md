@@ -15,10 +15,10 @@ Un recorrido por las fases del Entry, Descent & Landing de la misión Mars Scien
 | **Duración** | 5 módulos de 60 minutos, distribuidos en 3 días |
 | **Instructores** | Patricia Ortíz · Oscar Tejada |
 | **Afiliaciones** | NASA Armstrong Flight Research Center · SKY Airline |
-| **Email** | *(por completar)* |
+| **Email** | oscar.tejadas@usm.cl |
 | **Bio — Patricia Ortíz** | Jefe de Proyectos Espaciales y Asociaciones del Centro de Investigación de Vuelo Armstrong de la NASA. Ingeniera Aeroespacial por la Universidad de California, San Diego, con 21 años de experiencia. Actualmente es Subgerente de Proyecto del Espectrómetro del Escudo Térmico de Orión, que medirá la radiación de la capa de choque durante la reentrada de Orión en las misiones Artemis 2 a 5. Antes dirigió operaciones de pruebas de vuelo en el proyecto Convergent Aeronautics Solutions de la NASA. |
-| **Bio — Oscar Tejada** | Analista de Motores y Componentes Mayores en SKY Airline. Ingeniero en Aviación Comercial por la Universidad Técnica Federico Santa María, cursó Ingeniería en Gestión en el Politecnico di Milano. Cuenta con licencias de mantenimiento de aeronaves emitidas por la AAC de El Salvador, la FAA de Estados Unidos (A&P) y la EASA en Europa (Part-66 B1). Empezó su carrera en Aeroman como TMA en Sistemas de Aviónica, liderando equipos técnicos en chequeos mayores de aviones comerciales. Hoy analiza el desempeño de motores y componentes mayores de la flota de SKY Airline. |
-| **LinkedIn** | *(por completar)* |
+| **Bio — Oscar Tejada** | Analista de Motores y Componentes Mayores en SKY Airline. Ingeniero en Aviación Comercial por la Universidad Técnica Federico Santa María, cursó Ingeniería en Gestión en el Politecnico di Milano. |
+
 
 ---
 
@@ -146,10 +146,10 @@ La presentación se organiza en tres partes:
 
 El material previo suma alrededor de una hora y es intencionalmente ligero: el trabajo fuerte ocurre en el taller. Todos los recursos son gratuitos.
 
-| Recurso |
+| Recurso [Buscar en Internet]|
 |---|
 | Introducción a los notebooks de Python en línea — Google Colab |
-| Khan Academy — Fuerzas y leyes de Newton (en español) |
+| Khan Academy — Fuerzas y leyes de Newton |
 | NASA Glenn — Beginner's Guide to Aeronautics |
 | NASA Glenn — FoilSim Student, simulador interactivo de perfil alar |
 | NASA Glenn — Modelo de la atmósfera de Marte |
@@ -170,17 +170,15 @@ El material previo suma alrededor de una hora y es intencionalmente ligero: el t
 
 ## Licencia
 
-Este proyecto cumple con las regulaciones de derecho de autor. Los datos de la misión Mars Science Laboratory provienen de publicaciones de NASA/JPL y son de dominio público. Los valores de los entornos planetarios y de las aeronaves fueron construidos con fines de entrenamiento para este taller. Las imágenes utilizadas son de uso exclusivamente educativo y no deben reutilizarse fuera de InspiraSTEM.
+Los datos de la misión Mars Science Laboratory provienen de publicaciones de NASA/JPL y son de dominio público. Los valores de los entornos planetarios y de las aeronaves fueron construidos con fines de entrenamiento para este taller. Las imágenes utilizadas son de uso exclusivamente educativos.
 
 ---
 
 ## Contacto
 
-Andrea Herrera
-andreaherrera.contact@gmail.com
-Early Career Ocean Professionals Central America
-www.andreaherreraocean.com
+Oscar Tejada
+oscar.tejadas@usm.com
 
 ---
 
-**Este taller forma parte de la iniciativa InspiraSTEM 2026, enfocada en fortalecer habilidades científicas y técnicas para estudiantes universitarios en El Salvador y la comunidad latinoamericana.**
+**Este taller forma parte de la iniciativa InspiraSTEM 2026, enfocada en fortalecer habilidades científicas y técnicas para estudiantes universitarios en El Salvador.**
