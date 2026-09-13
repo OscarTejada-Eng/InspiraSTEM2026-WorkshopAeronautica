@@ -16,8 +16,8 @@ Un recorrido por las fases del Entry, Descent & Landing de la misión Mars Scien
 | **Instructores** | Patricia Ortíz · Oscar Tejada |
 | **Afiliaciones** | NASA Armstrong Flight Research Center · SKY Airline |
 | **Email** | oscar.tejadas@usm.cl |
-| **Bio — Patricia Ortíz** | Jefe de Proyectos Espaciales y Asociaciones del Centro de Investigación de Vuelo Armstrong de la NASA. Ingeniera Aeroespacial por la Universidad de California, San Diego, con 21 años de experiencia. Actualmente es Subgerente de Proyecto del Espectrómetro del Escudo Térmico de Orión, que medirá la radiación de la capa de choque durante la reentrada de Orión en las misiones Artemis 2 a 5. Antes dirigió operaciones de pruebas de vuelo en el proyecto Convergent Aeronautics Solutions de la NASA. |
-| **Bio — Oscar Tejada** | Analista de Motores y Componentes Mayores en SKY Airline. Ingeniero en Aviación Comercial por la Universidad Técnica Federico Santa María, cursó Ingeniería en Gestión en el Politecnico di Milano. |
+| **Bio — Patricia Ortíz** | Jefe de Proyectos Espaciales y Asociaciones del Centro de Investigación de Vuelo Armstrong de la NASA. Ingeniera Aeroespacial por la Universidad de California, San Diego, con 21 años de experiencia. Actualmente es Subgerente de Proyecto del Espectrómetro del Escudo Térmico de Orión. |
+| **Bio — Oscar Tejada** | Analista de Motores y Componentes Mayores en SKY Airline. Ingeniero en Aviación Comercial por la Universidad Técnica Federico Santa María, cursó Ingeniería en Gestión en el Politecnico di Milano. Cuenta con licencias de mantenimiento de aeronaves emitidas por la AAC de El Salvador, la FAA de Estados Unidos (A&P) y la EASA en Europa (Part-66 B1). |
 
 
 ---
